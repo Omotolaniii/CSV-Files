@@ -2,7 +2,7 @@
 COVID-19 Data  
 This repository contains data related to the COVID-19 pandemic
 
-Data Sources  
+Data Source  
 The data contained in this repository is sourced from Coronavirus (COVID-19) Deaths - Our World in Data
 Refresh Date: 31/01/2023
 
