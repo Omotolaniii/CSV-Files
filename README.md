@@ -1,10 +1,10 @@
-# csv  
+### csv  
 COVID-19 Data  
 This repository contains data related to the COVID-19 pandemic
 
 Data Sources  
 The data contained in this repository is sourced from Coronavirus (COVID-19) Deaths - Our World in Data
-Refresh date: 31/01/2023
+Refresh Date: 31/01/2023
 
 Data Format  
 The data is stored in .csv format and can be easily imported
