@@ -1,4 +1,4 @@
-# csv  
+## csv  
 COVID-19 Data  
 This repository contains data related to the COVID-19 pandemic
 
@@ -10,4 +10,4 @@ Data Format
 The data is stored in .csv format and can be easily imported
 
 Contributing  
-If you have updates to the data or suggestions for additional sources, please submit a pull request.
+If you have updates to the data or suggestions for additional sources, please submit a pull request
